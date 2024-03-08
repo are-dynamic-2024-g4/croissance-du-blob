@@ -32,7 +32,7 @@ Facteurs : disponibilité des ressources, conditions environnementales (tempéra
 
 /!\ WIP à modifier 
 
-## Lien vers la page du blog : <a href="https://are-dynamic-2024-g4.github.io/croissance-du-blob/)https://are-dynamic-2024-g4.github.io/croissance-du-blob/"> Croissance du blob </a>
+## Lien vers la page du blog : <a href="https://are-dynamic-2024-g4.github.io/croissance-du-blob/"> Croissance du blob </a>
 
 ## Bibliographie
 
