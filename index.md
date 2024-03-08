@@ -27,3 +27,12 @@ Objectif : Déterminer la stratégie et la complexité d’optimisation (la long
 Critères d’évaluation : L’énergie dépensée, le temps nécessaire pour effectuer une liaison, la distance parcourue
 
 Facteurs : disponibilité des ressources, conditions environnementales (température/humidité/lumière…), présence d’autres organismes/agents chimiques
+
+## Présentation des résultats
+
+/!\ WIP à modifier 
+
+## Lien vers la page du blog : <a href="https://are-dynamic-2024-g4.github.io/croissance-du-blob/)https://are-dynamic-2024-g4.github.io/croissance-du-blob/"> Croissance du blob </a>
+
+## Bibliographie
+
