@@ -1,4 +1,7 @@
 # Croissance du blob
+
+![image](https://www.science-et-vie.com/wp-content/uploads/scienceetvie/2021/10/qu-est-que-blob-animal-vegetal.jpg)
+
 Amanallah Adame
 Hillary Lutchimee Rangasamy
 Arthur Bonnault
