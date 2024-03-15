@@ -21,6 +21,10 @@ Hillary Lutchimee Rangasamy: Hillary_Lutchimee.Rangasamy@etu.sorbonne-universite
 Arthur Bonnault:
 
 ## Compte rendu : ##
+
+
+
+## Brouillon: ##  
 Theme : Croissance d’un blob en laboratoire
 
 Problématique : Comment est influencée la croissance/les réseaux d’un blob par son environnement ?
