@@ -2,6 +2,10 @@
 
 ![image](https://www.science-et-vie.com/wp-content/uploads/scienceetvie/2021/10/qu-est-que-blob-animal-vegetal.jpg)
 
+## Description du projet : ##
+
+L'objectif est de comprendre la capacité du blob à s’adapter en fonctions de différentes paramètres.
+
 Amanallah Adame
 Hillary Lutchimee Rangasamy
 Arthur Bonnault
