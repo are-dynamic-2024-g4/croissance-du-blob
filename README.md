@@ -9,10 +9,18 @@ L'objectif est de déterminer la stratégie et la complexité d’optimisation d
 ## Règles de la modélisation : ##  
 
 
-Amanallah Adame
-Hillary Lutchimee Rangasamy
-Arthur Bonnault
 
+
+
+## Membres du groupe : ##
+
+Amanallah Adame:
+
+Hillary Lutchimee Rangasamy: Hillary_Lutchimee.Rangasamy@etu.sorbonne-universite.fr 
+
+Arthur Bonnault:
+
+## Compte rendu : ##
 Theme : Croissance d’un blob en laboratoire
 
 Problématique : Comment est influencée la croissance/les réseaux d’un blob par son environnement ?
