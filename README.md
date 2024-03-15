@@ -1,4 +1,4 @@
-# croissance-du-blob
+# Croissance du blob
 Amanallah Adame
 Hillary Lutchimee Rangasamy
 Arthur Bonnault
