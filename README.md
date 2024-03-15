@@ -4,7 +4,10 @@
 
 ## Description du projet : ##
 
-L'objectif est de comprendre la capacité du blob à s’adapter en fonctions de différentes paramètres.
+L'objectif est de déterminer la stratégie et la complexité d’optimisation du blob. Autrement dit comprendre la capacité du blob à s’adapter en fonctions de différentes paramètres.
+
+## Règles de la modélisation : ##  
+
 
 Amanallah Adame
 Hillary Lutchimee Rangasamy
