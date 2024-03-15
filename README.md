@@ -8,9 +8,9 @@ L'objectif est de déterminer la stratégie et la complexité d’optimisation d
 
 ## Règles de la modélisation : ##  
 
+Nous simulons notre modélisation dans une matrice de taille n x m constituée de chemins. On place notre blob sur un point A et notre goal sur un point B. Il va devoir trouver le chemin le plus court à parcourrir pour arriver à la destination.
 
-
-
+Il choisira le chemin grace au dead end cutting; le slime se développe dans différentes directions puis il éliminera les réseaux inutiles grace à l'algorithme de Dijkstra.
 
 ## Membres du groupe : ##
 
