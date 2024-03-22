@@ -14,9 +14,9 @@ Il choisira le chemin grace au dead end cutting; le slime se développe dans dif
 
 ## Membres du groupe : ##
 
-Amanallah Adame:
+Amanallah Adame : Amanallah.Adame@etu.sorbonne-universite.fr
 
-Hillary Lutchimee Rangasamy: Hillary_Lutchimee.Rangasamy@etu.sorbonne-universite.fr 
+Hillary Lutchimee Rangasamy : Hillary_Lutchimee.Rangasamy@etu.sorbonne-universite.fr 
 
 Arthur Bonnault:
 
