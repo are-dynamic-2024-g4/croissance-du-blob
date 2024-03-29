@@ -25,3 +25,5 @@ Voici ce que ça donne pour l'instant:
 
 # Semaine 4 : Appronfondisement des Parametres
 
+Nous commençon à refléchir et coder comment le blob vas bouger dans la matrice.
+
