@@ -18,7 +18,7 @@ Amanallah Adame : Amanallah.Adame@etu.sorbonne-universite.fr
 
 Hillary Lutchimee Rangasamy : Hillary_Lutchimee.Rangasamy@etu.sorbonne-universite.fr 
 
-Arthur Bonnault:
+Arthur Bonnault: Arthur.Bonnault@etu.sorbonne-universite.fr
 
 ## Compte rendu : ##
 
