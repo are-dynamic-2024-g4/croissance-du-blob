@@ -21,7 +21,8 @@ Codage des fonctions les plus simples du modèle, pour créer la matrice, placer
 
 Voici ce que ça donne pour l'instant:
 
-  ![img](/users/Etu5/21306565/Images/Captures d’écran/Capture d’écran du 2024-03-29 11-49-03.png)
+![Capture d’écran du 2024-03-29 11-49-03](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/b733a601-a910-41ff-a09b-f628b94e0902)
+
 
 # Semaine 4 : Appronfondisement des Parametres
 
