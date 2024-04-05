@@ -31,3 +31,22 @@ Bleu - Nourriture
 
 Nous commençon à refléchir et coder comment le blob vas bouger dans la matrice.
 
+Nous avons décider de creer un labyrinthe dans paint et l'implementer en jupyter
+
+![Capture d’écran du 2024-04-05 11-06-26](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/594f70bd-a9bb-491f-a64b-bec33065355f)
+
+Nous utilisons le codage de couleur dans l'espace RVB afin de creer une matrice.
+
+Chaque couleur represente des differentes parametres:
+- Noir (0,0,0) -  matrice 3 - Les murs du labyrinthe
+- Blanc (255,255,255) - matrice 0 - Les deplacements possibles du blob
+- Jaune (255,255,0) - matrice 1 - une cellule du slime
+- Bleu (0,0,255) - matrice 2 - La source de nourriture
+
+
+Voici cec qu'affiche la matrice d'après le labyrithe qu'on a dessin:
+
+![Capture d’écran du 2024-04-05 11-17-04](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/29440698-00af-4562-88b2-d78776f7ae18)
+
+
+# Semaine 5 : Appronfondisement des Parametres
