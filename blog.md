@@ -49,4 +49,4 @@ Voici cec qu'affiche la matrice d'après le labyrithe qu'on a dessin:
 ![Capture d’écran du 2024-04-05 11-17-04](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/29440698-00af-4562-88b2-d78776f7ae18)
 
 
-# Semaine 5 : Appronfondisement des Parametres
+# Semaine 5 : Deplacements du Blob
