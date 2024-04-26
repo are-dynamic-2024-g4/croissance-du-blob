@@ -69,3 +69,5 @@ Et le slime celui là:
 
 
 Les deux vont ainsi s'étendre jusqu'à ce qu'ils se rencontrent et le slime suivra l'odeur de la nourriture.
+
+# Semaine 6 : Animation Tkinter
