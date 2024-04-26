@@ -59,11 +59,11 @@ Pour bouger dans le labyrinthe qu'on a crée, on l'a implementé en terme de mat
 
 Le slime et la source de nourriture peuvent maintenant s'étendre dans le labyrinthe. 
 
-L'odeur de la source de nourriture s'étend dans le labyrinthe grace à cette équation qu'on a implementé dans un notebook jupyter:
+L'odeur de la source de nourriture s'étend dans le labyrinthe grace à cette équation qu'on a implémenté dans un notebook jupyter:
 
 ![Capture d’écran du 2024-04-26 11-37-27](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/12d1005a-41d2-406f-bb67-68df6a9183d9)
 
-Et le slime celui là:
+Et le slime celui-là:
 
 ![Capture d’écran du 2024-04-26 11-37-42](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/cef01be5-3dbe-49e1-96e8-3a8becd0ce7c)
 
