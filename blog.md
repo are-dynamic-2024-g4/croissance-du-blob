@@ -53,10 +53,18 @@ Voici cec qu'affiche la matrice d'après le labyrithe qu'on a dessin:
 
 Pendant les vacances, on a grandement avancé sur le code.
 
-Le slime et la source de nourriture peuvent maintenat s'étendre dans le labyrinthe. 
-
-Nous avons décider de les étendre tous les deux ainsi, des quu'ils se rencontrent, le slime suivra "l'odeur" de la nourriture jusqu'à ce qu'il le trouve.
-
 Pour bouger dans le labyrinthe qu'on a creé, on l'a implementé en terme de matrice:
 
 ![Capture d’écran du 2024-04-26 11-36-05](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/be429b4c-0a4f-41a0-8a2e-5a72682c0b10)
+
+
+Le slime et la source de nourriture peuvent maintenat s'étendre dans le labyrinthe. 
+
+Le slime utilise cette equation que nous avons implementer en jupyter:
+
+![Capture d’écran du 2024-04-26 11-37-27](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/12d1005a-41d2-406f-bb67-68df6a9183d9)
+
+![Capture d’écran du 2024-04-26 11-37-42](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/cef01be5-3dbe-49e1-96e8-3a8becd0ce7c)
+
+
+Nous avons décider de les étendre tous les deux ainsi, des qu'ils se rencontrent, le slime suivra "l'odeur" de la nourriture jusqu'à ce qu'il le trouve.
