@@ -57,3 +57,6 @@ Le slime et la source de nourriture peuvent maintenat s'étendre dans le labyrin
 
 Nous avons décider de les étendre tous les deux ainsi, des quu'ils se rencontrent, le slime suivra "l'odeur" de la nourriture jusqu'à ce qu'il le trouve.
 
+Pour bouger dans le labyrinthe qu'on a creé, on l'a implementé en terme de matrice:
+
+![Capture d’écran du 2024-04-26 11-36-05](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/be429b4c-0a4f-41a0-8a2e-5a72682c0b10)
