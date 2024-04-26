@@ -50,3 +50,10 @@ Voici cec qu'affiche la matrice d'après le labyrithe qu'on a dessin:
 
 
 # Semaine 5 : Deplacements du Blob
+
+Pendant les vacances, on a grandement avancé sur le code.
+
+Le slime et la source de nourriture peuvent maintenat s'étendre dans le labyrinthe. 
+
+Nous avons décider de les étendre tous les deux ainsi, des quu'ils se rencontrent, le slime suivra "l'odeur" de la nourriture jusqu'à ce qu'il le trouve.
+
