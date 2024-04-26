@@ -61,12 +61,11 @@ Le slime et la source de nourriture peuvent maintenant s'étendre dans le labyri
 
 L'odeur de la source de nourriture s'étend dans le labyrinthe grace à cette équation qu'on a implémenté dans un notebook jupyter:
 
-![Capture d’écran du 2024-04-26 11-37-27](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/12d1005a-41d2-406f-bb67-68df6a9183d9)
+![image](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231024/85b62c1b-2fe1-4aef-8765-f37b6cc16590)
 
 Et le slime celui-là:
 
-![Capture d’écran du 2024-04-26 11-37-42](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/cef01be5-3dbe-49e1-96e8-3a8becd0ce7c)
-
+![image](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231024/277587b6-4d2d-4237-8acb-b9c51e32c733)
 
 Les deux vont ainsi s'étendre jusqu'à ce qu'ils se rencontrent et le slime suivra l'odeur de la nourriture.
 
