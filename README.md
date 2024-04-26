@@ -25,6 +25,9 @@ Arthur Bonnault: Arthur.Bonnault@etu.sorbonne-universite.fr
 
 
 
+## Lien vers la page du blog : <a href="https://are-dynamic-2024-g4.github.io/croissance-du-blob/"> Croissance du blob </a>
+
+
 ## Brouillon: ##  
 Theme : Croissance d’un blob en laboratoire
 
