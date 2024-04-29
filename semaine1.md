@@ -17,5 +17,5 @@ A la fin les sources qui nous intéressait le plus était:
 
 "https://github.com/fogleman/physarum" et "https://github.com/avivace/Physarum?tab=readme-ov-file" - 2 sites github qui ont presque le même concepte de se qu'on veut créer.
 
-
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.frontiersin.org%2Fjournals%2Fmicrobiology%2Farticles%2F10.3389%2Ffmicb.2015.00720%2Ffull&psig=AOvVaw09S3LmjQLeYBRR2H6zdG4D&ust=1714510622650000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDKt_yn6IUDFQAAAAAdAAAAABA7)
 
