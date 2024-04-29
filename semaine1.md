@@ -17,6 +17,10 @@ A la fin les sources qui nous intéressait le plus était:
 
 "https://github.com/fogleman/physarum" et "https://github.com/avivace/Physarum?tab=readme-ov-file" - 2 sites github qui ont presque le même concepte de se qu'on veut créer.
 
+
+
+
+
 ![fmicb-06-00720-g004](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/63d695d8-d6db-4908-b45f-97445c532f65)
 
 
