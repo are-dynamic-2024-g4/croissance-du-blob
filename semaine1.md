@@ -21,6 +21,5 @@ A la fin les sources qui nous intéressait le plus était:
 
 
 
-![fmicb-06-00720-g004](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/63d695d8-d6db-4908-b45f-97445c532f65)
-
+![image](https://www.frontiersin.org/files/Articles/141785/fmicb-06-00720-r2/image_m/fmicb-06-00720-g004.jpg)
 
