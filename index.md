@@ -24,6 +24,7 @@ Arthur Bonnault: Arthur.Bonnault@etu.sorbonne-universite.fr
 
 [Semaine 1](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine1)
 
+[Semaine 2](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine2)
 
 
 
