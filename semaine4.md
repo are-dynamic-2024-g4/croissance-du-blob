@@ -10,7 +10,7 @@ Afin de bouger, le matrice sera vue comme ceci;
 
 ![Screenshot 2024-04-30 184747](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/3fdeed10-906d-4ed9-ad00-89ec0a3e9f43)
 
-Le slime ou l'odeur pourra ainsi bouger soit au nord, nord-est, est, sud-est, sud, etc...
+Le slime ou l'odeur pourra ainsi se propager soit au nord, nord-est, est, sud-est, sud, etc...
 
 # Les constantes qu'on a définit:
 
