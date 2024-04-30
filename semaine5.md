@@ -46,13 +46,13 @@ Ainsi on a fait plusieurs autres fonctions afin de résoudre telles problèmes.
 # Ex.1
 ![Screenshot 2024-05-01 000437](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/87ef90f8-b1d7-4a87-9a9a-967fdd316205)
 
-Qui vérifie que l'image implémenter et conforme au contrainte que nous avons créer.
+Vérifie que l'image implémenter et conforme au contrainte que nous avons créer.
 
 
 # Ex.2
 ![Screenshot 2024-05-01 000844](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/9fe574f5-039e-43e6-bd4d-c883028792cb)
 
-Ou celui-çi qui vérifie qu'une case existe bien dans la matrice.
+Vérifie qu'une case existe bien dans la matrice.
 
 
 Suivant: [Semaine 6](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine6)
