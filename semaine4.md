@@ -12,6 +12,13 @@ Afin de bouger, le matrice sera vue comme ceci;
 
 Le slime ou l'odeur pourra ainsi bouger soit au nord, nord-est, est, sud-est, sud, etc...
 
+# Les constantes qu'on a définit:
+
+![Screenshot 2024-04-30 195104](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/f717d870-3554-403b-887d-f6d513ffe0b0)
+
+PMP1, PMP2 - diffusion du slime.
+
+CAP1, CAP2 - minimum percentage de l'odeur detecté par le slime. 
 
 # Les paramétres utilisé dans les equations:
 
