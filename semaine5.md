@@ -34,12 +34,15 @@ Ainsi on se retrouve avec ses étapes pour executer le deplacement du slime et l
 
 
 PM (masse de slime) vaut :
+
 0 si la case n'est pas une case accessible.
+
 100 si la case est un point de départ, SP.
+
 100 si la case est une source de nourriture ET que la masse de slime sur cette case est supérieure au pourcentage de masse nécessaire prédefini, PMP.
 
 
-On a znsuite fait une liste des problèmes qui pourrait apparaître lors du simulation tels que "Si le slime bouge endehors du labyrinthe", "S'il fait face a un mur", "S'il y a plusieurs sources de nourriture" ou encore "s'il y a des obstacles sur son chemin".
+On a ensuite fait une liste des problèmes qui pourrait apparaître lors du simulation tels que "Si le slime bouge endehors du labyrinthe", "S'il fait face a un mur", "S'il y a plusieurs sources de nourriture" ou encore "s'il y a des obstacles sur son chemin".
 
 Ainsi on a fait plusieurs autres fonctions afin de résoudre telles problèmes.
 
@@ -53,6 +56,7 @@ Vérifie que l'image implémenter et conforme au contrainte que nous avons crée
 ![Screenshot 2024-05-01 000844](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/9fe574f5-039e-43e6-bd4d-c883028792cb)
 
 Vérifie qu'une case existe bien dans la matrice.
+
 
 
 Suivant: [Semaine 6](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine6)
