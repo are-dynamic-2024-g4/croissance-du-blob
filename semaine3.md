@@ -27,4 +27,14 @@ Chaque couleur représente des paramètres différents :
 
 ![Screenshot 2024-04-30 183117](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/b09d6ea5-a4ff-4f44-9920-e26f9aa12287)
 
+En l'occurence comme vous le voyez dans l'image ci dessus, on n'a que des 3 (mur) et des 0 (case vides) mais ni de 1 ou 2 malgré qu'on n'a du bleu et jaune dans l'image.
+
+Cela est dû au fait que le bleu et jaune dans l'image n'ont pas le même représentation en RVB. 
+
+On a ainsi ajouté ce problème à une liste de touts les erreurs ou conditions qu'on peut résoudre plus tard ou au quelles on doit faire attention.
+
+
+# Suivant
+
+[Semaine 4](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine4)
 
