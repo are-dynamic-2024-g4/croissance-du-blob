@@ -34,7 +34,5 @@ Cela est dû au fait que le bleu et jaune dans l'image n'ont pas le même repré
 On a ainsi ajouté ce problème à une liste de touts les erreurs ou conditions qu'on peut résoudre plus tard ou au quelles on doit faire attention.
 
 
-# Suivant
-
-[Semaine 4](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine4)
+Suivant: [Semaine 4](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine4)
 
