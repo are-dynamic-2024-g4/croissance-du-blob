@@ -26,5 +26,5 @@ Bleu - Nourriture
 Violet - Cases vides
 
 
-[Semaine 1](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine1) <- Précedent  ............................. Suivant ->  [Semaine 3](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine3)
+[Semaine 1](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine1) <- Précedent ... Suivant ->  [Semaine 3](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine3)
 
