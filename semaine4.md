@@ -18,7 +18,7 @@ Le slime ou l'odeur pourra ainsi se propager soit au nord, nord-est, est, sud-es
 
 PMP1, PMP2 - diffusion du slime.
 
-CAP1, CAP2 - minimum percentage de l'odeur detecté par le slime. 
+CAP1, CAP2 - pourcentage minimum de l'odeur detecté par le slime. 
 
 # Les paramétres utilisé dans les equations:
 
