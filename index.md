@@ -28,6 +28,7 @@ Arthur Bonnault: Arthur.Bonnault@etu.sorbonne-universite.fr
 
 [Semaine 3](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine3)
 
+[Semaine 4](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine4)
 
 
 ## Lien vers la page du blog : <a href="https://are-dynamic-2024-g4.github.io/croissance-du-blob/"> Croissance du blob </a>
