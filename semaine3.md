@@ -15,7 +15,8 @@ Qui donne à la fin une matrice de ce genre;
 ![Screenshot 2024-04-30 182829](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/58f55960-1e18-417b-9c6f-6babc10ab161)
 
 
-Mais comme vous pouvez le constater, il est facile de se perdre dedans; donc on a normaliser la matrice.
+Mais comme vous pouvez le constater, il est facile de se perdre parmis tous ces arrays donc on a normaliser la matrice.
+
 Nous utilisons le codage de couleur dans l'espace RVB afin de créer la nouvelle matrice.
 
 Chaque couleur représente des paramètres différents :
