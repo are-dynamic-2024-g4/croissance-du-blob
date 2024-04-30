@@ -16,11 +16,11 @@ Ainsi on se retrouve avec ses étapes pour executer le deplacement du slime et l
      Si aucune source de nourriture n'est couverte ->  Boucler l'étape 2 
 
 # 3. Creation de tube
-    Toutes les sources de nourriture couvertes avec le pourcentage prédéfini de masse du slime (thPM) sont encapsulés par le plasmodium.
+    Toutes les sources de nourriture couvertes avec le pourcentage prédéfini de masse du slime (thPM) sont encapsulés par le blob.
     Ils sont ensuite connectées au point de départ, SP (le point de départ du slime).
-    Ils se transforment en point de départ, ce qui veut dire que leur masse de slime est définie à 100.
+    Ces derniers se transforment ensuite en point de départ, ce qui veut dire que leur masse de slime est définie à 100.
 
-# 4. 5000 itérations? : Retourner à l'étape 2 Sinon : Continuer
+# 4. t = 5000 itérations?
      On vérifie s'il y a eu 5000 itérations:
      * t < 5000
        - si t = 5000 -> On change les NS et SP en NS (le point de depart des sources de nourriture, intiallement égale à 100) 
@@ -53,4 +53,9 @@ Qui vérifie que l'image implémenter et conforme au contrainte que nous avons c
 ![Screenshot 2024-05-01 000844](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/9fe574f5-039e-43e6-bd4d-c883028792cb)
 
 Ou celui-çi qui vérifie qu'une case existe bien dans la matrice.
+
+
+Suivant: [Semaine 6](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine6)
+
+
 
