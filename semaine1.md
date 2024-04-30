@@ -1,4 +1,4 @@
-## Compte rendu de la semaine 1 ##
+## Compte rendu de la semaine 1 
 
 Lors de notre première séance, nous avons commencé à effectuer des recherches en surface nous avons cherché principalement des pistes et des moyens de s'aiguiller efficacement. 
 
