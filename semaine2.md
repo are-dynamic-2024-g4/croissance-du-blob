@@ -19,5 +19,9 @@ Puis on a ajouté les couleurs pour facilement les identifier visuellement:
 ![Screenshot 2024-04-30 180942](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/afc47d49-44a3-4b99-8e80-33c13bfcd7bb)
 
 
-Jaune - BLob
+Jaune - Blob
+
 Bleu - Nourriture
+
+Violet - Cases vides
+
