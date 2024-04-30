@@ -31,6 +31,7 @@ CHAeMN -  Contribution du voisinage de Moore pour la diffusion de l'odeur sur la
 
 CHA - l'attraction chimique (l'odeur de la nourriture) sur la case [i][j].
 
+AA - case vide
 
 ![Screenshot 2024-04-30 191420](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/10d61b25-35db-4c54-9e7d-8a1f91d2a259)
 
