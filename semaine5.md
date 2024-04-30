@@ -58,8 +58,7 @@ Vérifie que l'image implémenter et conforme au contrainte que nous avons crée
 Vérifie qu'une case existe bien dans la matrice.
 
 
-
-Suivant: [Semaine 6](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine6)
+[Semaine 5](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine5) <- Précedent ... Suivant -> [Semaine 6](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine6)
 
 
 
