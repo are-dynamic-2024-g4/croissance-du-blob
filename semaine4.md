@@ -20,11 +20,13 @@ PMP1, PMP2 - diffusion du slime.
 
 CAP1, CAP2 - pourcentage minimum de l'odeur detecté par le slime. 
 
-# Les paramétres utilisé dans les equations:
-
 CON - le pourcentage de nourriture absorbé par le slime.
 
 PA - l'attraction du slime par l'odeur de la nourriture.
+
+PAP - constante associé à une direction. Si le slime bouge (ex. Nord), la cellule vers lequel il se dirige est égal à PAP et le cellule adjacente (Sud)  est égal à -PAP.
+
+# Les paramétres utilisé dans les equations:
 
 PMvNN - Contribution du voisinage de von Neumann pour la masse du slime sur cellule [i][j]. C'est à dire si le slime peut bouger au nord, est, sud ou ouest.
 
