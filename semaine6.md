@@ -12,10 +12,17 @@ Ce qui à la fin nous à donner cette animaton.
 Comme dit précedemment, le jaune est le blob et le bleu la source de nourriture.
 
 
-
-
 https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/b18a66e4-95c1-472c-8230-b311c0c32e40
 
+
+Comme vue dans la video, le slime s'est propagé dans le labyrinthe en entier jusqu'au siurce de nourriture.
+
+En violet est le chemin finale trouvé par le slime et les cases en vert sont des cellules avec des concentration de slimes restantes, inférieur à 100.
+
+A la fin dans la video, la source de nourriture qui était bleu au début est devenue jaune car elle a 100% concentration de slime. En d'autre termes, le slime a mangé la nourriture.
+
+
+# Métrique
 
 
 [Semaine 5](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine5) <- Précedent
