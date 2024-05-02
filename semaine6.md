@@ -9,7 +9,7 @@ Ce qui à la fin nous à donner cette animaton.
 ![Screenshot 2024-05-02 164050](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/b9d07973-d6cb-4be5-8e80-2d935aeda069)
 
 
-
+Comme dit précedemment, le jaune est le blob et le bleu la source de nourriture.
 
 
 [Semaine 5](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine5) <- Précedent
