@@ -23,18 +23,22 @@ A la fin de la video, la source de nourriture qui était bleu au début est deve
 
 # Autres Simulations
 
-**Test 1**
-
-https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/97879b38-5cfa-4374-b5d1-103970ade7e8
-
-
-**Test 2**
+**Test**
 
 https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/4305edf1-104a-4e82-ad4e-d79290dd29da
 
 
 
 # Métriques
+![image](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231024/b5eb5e80-e782-481c-8d88-5d562122e0ba)
+
+![image](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231024/646a4496-1b43-42a5-9b64-88ca7ad5c947)
+
+ Les paramètres de diffusion influent avec des poids différents. Le plus intéressant à regarder est PMP1.
+ Ces deux courbes ont été réalisés sur la map5.png, qui représente le labyrinthe comme présenté en laboratoire.
+ En-dessous de 0.02, la masse de slime en fin de simulation est assez faible et croît lentement, ce qui peut indiquer une diffusion plutôt mauvaise en dessous de ce seuil.
+ Egalement, on voit que notre algorithme aura besoin de plus d'itérations avec un PMP1 plus faible, m^me dans une configuration pourtant assez simple.
+ On peut donc viser un PMP1 assez elevé pour avoir une bonne diffusion et également un algorithme assez rapide.
 
 
 [Semaine 5](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine5) <- Précedent
