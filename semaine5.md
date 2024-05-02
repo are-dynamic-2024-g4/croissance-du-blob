@@ -49,7 +49,7 @@ Ainsi on a fait plusieurs autres fonctions afin de résoudre ces problèmes.
 # Ex.1
 ![Screenshot 2024-05-01 000437](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/87ef90f8-b1d7-4a87-9a9a-967fdd316205)
 
-Vérifie que l'image implémenté est conforme aux contraintes que nous avons crée.
+Vérifie que l'image implémenté est conforme aux contraintes que nous avons créées.
 
 
 # Ex.2
