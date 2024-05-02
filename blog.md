@@ -70,3 +70,5 @@ Et le slime celui-là:
 Les deux vont ainsi s'étendre jusqu'à ce qu'ils se rencontrent et le slime suivra l'odeur de la nourriture.
 
 # Semaine 6 : Animation Tkinter
+
+[Semaine 6](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine6)
