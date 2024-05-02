@@ -12,4 +12,10 @@ Ce qui à la fin nous à donner cette animaton.
 Comme dit précedemment, le jaune est le blob et le bleu la source de nourriture.
 
 
+
+
+https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/b18a66e4-95c1-472c-8230-b311c0c32e40
+
+
+
 [Semaine 5](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine5) <- Précedent
