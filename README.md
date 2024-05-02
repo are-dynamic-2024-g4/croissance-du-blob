@@ -1,7 +1,5 @@
 # Croissance du blob
 
-![slime-mold-branching](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/73da0fb0-9090-4175-9ca4-361b56fc4cf4)
-
 ![image](https://www.science-et-vie.com/wp-content/uploads/scienceetvie/2021/10/qu-est-que-blob-animal-vegetal.jpg)
 
 Etude de la croissance d'un blob en laboratoire. Un blob est un organisme unicellulaire qui vit normalement dans les milieux frais et humides. Malgré ce fait, il possède quand même des capacités d'apprentissage étonnantes.
