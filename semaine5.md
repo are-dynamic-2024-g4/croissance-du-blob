@@ -25,7 +25,7 @@ Ainsi, on se retrouve avec ces étapes pour exécuter le déplacement du slime e
      * t < 5000
        - si t = 5000 -> On change les NS et SP en NS (le point de depart des sources de nourriture, intiallement égale à 100) 
                      -> On change l'avant dernier NS en SP.
-       - Boucler l'étape 2
+       - Boucler sur l'étape 2
 
      * t > 5000
        - t < 10000 ?
@@ -34,29 +34,25 @@ Ainsi, on se retrouve avec ces étapes pour exécuter le déplacement du slime e
 
 
 PM (masse de slime) vaut :
-
-0 si la case n'est pas une case accessible.
-
-100 si la case est un point de départ, SP.
-
-100 si la case est une source de nourriture ET que la masse de slime sur cette case est supérieure au pourcentage de masse nécessaire prédefini, PMP.
+-0 si la case n'est pas une case accessible.
+-100 si la case est un point de départ, SP.
+-100 si la case est une source de nourriture ET que la masse de slime sur cette case est supérieure au pourcentage de masse nécessaire prédefini, PMP.
 
 
-On a ensuite fait une liste des problèmes qui pourraientt apparaître lors de la simulation tels que "Si le slime bouge en dehors du labyrinthe", "S'il fait face à un mur", "S'il y a plusieurs sources de nourriture" ou encore "s'il y a des obstacles sur son chemin".
+On a ensuite fait une liste des problèmes qui pourraient apparaître lors de la simulation tels que "Si le slime bouge en dehors du labyrinthe", "S'il fait face à un mur", "S'il y a plusieurs sources de nourriture" ou encore "s'il y a des obstacles sur son chemin".
 
-Ainsi on a fait plusieurs autres fonctions afin de résoudre ces problèmes.
+Ainsi on a fait plusieurs autres méthodes afin de résoudre ces problèmes.
 
 # Ex.1
 ![Screenshot 2024-05-01 000437](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/87ef90f8-b1d7-4a87-9a9a-967fdd316205)
 
-Vérifie que l'image implémenté est conforme aux contraintes que nous avons créées.
+Vérifie que l'image implémentée est conforme aux contraintes que nous avons créées.
 
 
 # Ex.2
 ![Screenshot 2024-05-01 000844](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/9fe574f5-039e-43e6-bd4d-c883028792cb)
 
 Vérifie qu'une case existe bien dans la matrice.
-
 
 [Semaine 5](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine5) <- Précedent ... Suivant -> [Semaine 6](https://are-dynamic-2024-g4.github.io/croissance-du-blob/semaine6)
 
