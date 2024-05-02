@@ -1,8 +1,14 @@
 ## Compte rendu de la semaine 6
 
-Enfin pour cette dernière semaine, on s'interesse à l'animation de notre projet sur Tkinter.
+Enfin pour cette dernière semaine, on s'interesse à l'animation de notre projet sur Tkinter et les métriques qu'on a décidé de modifier.
 
-On a d'abord dû faire des recherches sur comment l'utilser qui nous a pris plus de temps qu'on ne le souhaitait; mais on a finalement pû comprendre.
+On a d'abord dû faire des recherches sur comment utilser Tkinter qui nous a pris plus de temps qu'on ne le souhaitait; mais on a finalement pû le comprendre et l'implémenter.
+
+Ce qui à la fin nous à donner cette animaton.
+
+![Screenshot 2024-05-02 164050](https://github.com/are-dynamic-2024-g4/croissance-du-blob/assets/160231182/b9d07973-d6cb-4be5-8e80-2d935aeda069)
+
+
 
 
 
