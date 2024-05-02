@@ -21,12 +21,17 @@ Les excès de blob sont alors envoyés vers les chemins les plus optimisés.
 ## Critères d’évaluation : ##
 
 L’énergie dépensée
+
 Le temps nécessaire pour effectuer une liaison
+
 La distance parcourue
 
 ## Facteurs : ##
+
 Disponibilité des ressources
+
 Taille du labyrinthe
+
 Présence d’autres organismes/agents chimique
 
 ## Membres du groupe : ##
