@@ -10,29 +10,6 @@ On s'intéressera principalement à comment les réseaux d'un blob son influenc�
 
 L'objectif est de déterminer la stratégie et la complexité d’optimisation du blob. Autrement dit comprendre la capacité du blob à s’adapter à son environnement en fonctions de différentes paramètres changeant.
 
-## Règles de la modélisation : ##  
-
-Nous simulons notre modélisation dans une matrice de taille n x m constituée de chemins. On place notre blob sur un point A et notre nourriture à un point B. Il va devoir trouver son chemin dans un labyrinthe pour arriver à la destination; source de nourriture.
-
-Hypothèse : Le blob et la source de nourriture en l'occurence son odeur, vont d’abord s’étendre dans toutes les directions puis les réseaux créer vont s’optimiser le plus possible pour se lier petit à petit entre chaque source de nourriture.
-
-Les excès de blob sont alors envoyés vers les chemins les plus optimisés.
-
-## Critères d’évaluation : ##
-
-L’énergie dépensée
-
-Le temps nécessaire pour effectuer une liaison
-
-La distance parcourue
-
-## Facteurs : ##
-
-Disponibilité des ressources
-
-Taille du labyrinthe
-
-Présence d’autres organismes/agents chimique
 
 ## Membres du groupe : ##
 
